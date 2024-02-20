@@ -14,9 +14,9 @@ O serviço de bot do Azure é uma plataforma na nuvem oferecida pela Microsoft q
 
 <img src="./Speech/input/03-Serviço_bot.png" alt="03-Serviço_bot">
 
-**# Chat** 
-**# Email** 
-**# Ligação**
+<p> **Chat** </p> 
+<p> **Email** </p>
+<p> **Ligação** </p>
 
 <img src="./Speech/input/04-Serviço_bot_02.png" alt="04-Serviço_bot">
 
